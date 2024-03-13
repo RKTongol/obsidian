@@ -3,4 +3,6 @@
 - instead of width/heights use max and min width/heights
 - do not use VH or VW
 - don't declare things you don't need
+- Gap can have different size i.e. gap: 1 rem 3rem;
+- try using text-wrap for text and also using ch
 - 

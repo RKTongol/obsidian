@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML & CSS.md",
+                "file": "Responsivesness.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar. 13, 2024.md",
+                "file": "Task to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar. 13, 2024.md",
+                "file": "Task to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar. 13, 2024.md"
+                "file": "Task to do.md"
               }
             }
           },
@@ -236,12 +236,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4dc3f19a21fc2c9e",
+  "active": "0520db7c3cb64d72",
   "lastOpenFiles": [
+    "Responsivesness.md",
+    "HTML & CSS.md",
+    "Daily Notes/Mar. 13, 2024.md",
     "repository",
     "Task to do.md",
-    "HTML & CSS.md",
-    "Responsivesness.md",
     "Reminders.md",
     "Width.md",
     "Font-size.md",
@@ -253,7 +254,6 @@
     "Daily Notes/Mar. 11, 2024.md",
     "EOW Huddle.md",
     "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
-    "Daily Notes/Mar. 13, 2024.md",
     "Templates/Daily.md",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
     "Daily Notes/Mar. 24, 2024.md",
@@ -275,7 +275,6 @@
     "~syncthing~EOW Huddle.sync-conflict-20240304-200009-TJEWWHH.md.tmp",
     "Main/Untitled.canvas",
     "Templates",
-    "New folder",
     "Daily Notes/Untitled.canvas",
     "Untitled.canvas"
   ]

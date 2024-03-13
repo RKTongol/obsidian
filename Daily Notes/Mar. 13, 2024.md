@@ -22,8 +22,13 @@
 - 
 
 **What I did today:**
-- 
-
+- mobile compatability of sites
+- VSRC Audit
+- Fix VSRC links in the site
+- Google analytics verify issue
+- update social media links in VSRC
+- VMV.NYC what is VH-rating page
+  
 **What I plan to do on my next shift**
 - 
 

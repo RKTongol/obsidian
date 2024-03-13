@@ -20,40 +20,30 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "3098ac622324454e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c2d2be84af6f49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Mar. 12, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff4cd7da7cfcb213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Mar. 13, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
             "id": "4dc3f19a21fc2c9e",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "60985148e7173fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52f95fa4b9b3bd9a",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -63,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,6 +123,14 @@
             }
           },
           {
+            "id": "053830bfd6ca08e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "3b7258ba86fa6f38",
             "type": "leaf",
             "state": {
@@ -182,17 +179,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "053830bfd6ca08e8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "f585b475b5966a6a",
@@ -245,20 +233,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff4cd7da7cfcb213",
+  "active": "52f95fa4b9b3bd9a",
   "lastOpenFiles": [
     "Task to do.md",
+    "Javascript.md",
+    "console.log.md",
+    "Web Developemnt.md",
+    "Notes.md",
+    "Daily Notes/Mar. 12, 2024.md",
+    "Daily Notes/Mar. 13, 2024.md",
     "Responsivesness.md",
     "HTML & CSS.md",
-    "Daily Notes/Mar. 13, 2024.md",
     "repository",
     "Reminders.md",
     "Width.md",
     "Font-size.md",
     "IMG.md",
-    "Daily Notes/Mar. 12, 2024.md",
-    "Web Developemnt.md",
-    "Notes.md",
     "SOW Huddle.md",
     "Daily Notes/Mar. 11, 2024.md",
     "EOW Huddle.md",
@@ -276,7 +266,6 @@
     "VMV Links.md",
     "Accomplished Task.md",
     "Daily Notes/Mar. 10, 2024.md",
-    "Daily Notes/Mar. 07, 2024.md",
     "~syncthing~GMD Call.md.tmp",
     "~syncthing~EOW Huddle.md.tmp",
     "~syncthing~Reminders.sync-conflict-20240304-200746-TJEWWHH.md.tmp",

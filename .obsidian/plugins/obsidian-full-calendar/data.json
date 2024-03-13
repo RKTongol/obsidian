@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#8342ae",
+      "directory": "Daily Notes"
+    },
+    {
+      "type": "ical",
+      "color": "hsl(258, 88%, 66%)",
+      "url": "https://calendar.google.com/calendar/u/1/r"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "listWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

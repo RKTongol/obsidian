@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "fb495f859b394811",
+    "type": "split",
+    "children": [
+      {
+        "id": "f518745bad8b31fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd41126702cb3ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Mar. 05, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ee8108fd489dac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Mar. 05, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06c101a58661965c",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbd591a4afc95a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task to do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c28f2bea7734b92",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "46719c3fb9a0e33b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f241ffe77002d484",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9aa2898d61fcda60",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3e396dfb6332cd14",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fbbb2e3dcc34a5c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "741ec03a34b2f1f3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Task to do.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cb086f7a14cfa5dc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Task to do.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "734d197e8ef6f64e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Task to do.md"
+          }
+        }
+      },
+      {
+        "id": "c2d1d8bf4230e9ed",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dbd591a4afc95a90",
+  "lastOpenFiles": [
+    "Daily Notes/Mar. 24, 2024.md",
+    "Daily Notes/Mar. 29, 2024.md",
+    "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-164726-2HTMCHM.md",
+    "Daily Notes/Mar. 12, 2024.md",
+    "Daily Notes/Mar. 06, 2024.md",
+    "Daily Notes/Mar. 05, 2024.md",
+    "Untitled.md",
+    "GMD Call.md",
+    "Reminders.md",
+    "Daily Notes/Mar. 04, 2024.md",
+    "Reminders.sync-conflict-20240304-200746-TJEWWHH.md",
+    "EOW Huddle.sync-conflict-20240304-200009-TJEWWHH.md",
+    "EOW Huddle.md",
+    "EOW Huddle.sync-conflict-20240304-200029-TJEWWHH.md",
+    "Web Alignment.md",
+    "VMV InSkin.md",
+    "Daily Notes/Feb. 28, 2024.md",
+    "Daily Notes/Mar. 02, 2024.md",
+    "PH.md",
+    "SOW Huddle.md",
+    "Daily Notes/Feb. 29, 2024.md",
+    "VSRC.md",
+    "COM.md",
+    "Priority.md",
+    "Daily Notes/Mar. 03, 2024.md",
+    "VMV.NYC.md",
+    "Templates",
+    "Daily Notes",
+    "Assets"
+  ]
+}

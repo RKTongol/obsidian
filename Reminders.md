@@ -1,0 +1,6 @@
+- Monitor donate source and aftersell!!!!
+- list payment of elementor
+- Update Rocks on Yammer
+- ask if we need to update
+- Post How to save the world's skin
+- GoDaddy renewals

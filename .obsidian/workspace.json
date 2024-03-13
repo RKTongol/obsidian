@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "947fe2664382cbc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ecaa56245ac82fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0520db7c3cb64d72",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task to do.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "3098ac622324454e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2d2be84af6f49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Mar. 12, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff4cd7da7cfcb213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML & CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dc3f19a21fc2c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Mar. 13, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "115d816ed3ccb22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cae4deb048ee406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3026d43e7000c262",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "5192409eabc533d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01f5919e070e3525",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "356dd688cc6c7089",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeac616742320075",
+        "type": "tabs",
+        "dimension": 28.942486085343226,
+        "children": [
+          {
+            "id": "4d7efa45cb793ab7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b7258ba86fa6f38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/Mar. 13, 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1caa3e7aac451f17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/Mar. 13, 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f025e9cf8c75ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/Mar. 13, 2024.md"
+              }
+            }
+          },
+          {
+            "id": "a627029e37c46e60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f585b475b5966a6a",
+        "type": "tabs",
+        "dimension": 30.241187384044522,
+        "children": [
+          {
+            "id": "8774613a5698effa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reminders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "138bb354029bcc8d",
+        "type": "tabs",
+        "dimension": 40.816326530612244,
+        "children": [
+          {
+            "id": "ebf0ceae650d45d8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 619.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4dc3f19a21fc2c9e",
+  "lastOpenFiles": [
+    "repository",
+    "Task to do.md",
+    "HTML & CSS.md",
+    "Responsivesness.md",
+    "Reminders.md",
+    "Width.md",
+    "Font-size.md",
+    "IMG.md",
+    "Daily Notes/Mar. 12, 2024.md",
+    "Web Developemnt.md",
+    "Notes.md",
+    "SOW Huddle.md",
+    "Daily Notes/Mar. 11, 2024.md",
+    "EOW Huddle.md",
+    "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
+    "Daily Notes/Mar. 13, 2024.md",
+    "Templates/Daily.md",
+    "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
+    "Daily Notes/Mar. 24, 2024.md",
+    "Daily Notes/(Every M) Post How to save the world's skin.md",
+    "Daily Notes/Mar. 29, 2024.md",
+    "VMV.NYC.md",
+    "Pasted image 20240306092550.png",
+    "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-164726-2HTMCHM.md.tmp",
+    "~syncthing~.stwritetest.tmp",
+    "GMD Call.md",
+    "VMV Links.md",
+    "Accomplished Task.md",
+    "Daily Notes/Mar. 10, 2024.md",
+    "Daily Notes/Mar. 07, 2024.md",
+    "~syncthing~GMD Call.md.tmp",
+    "~syncthing~EOW Huddle.md.tmp",
+    "~syncthing~Reminders.sync-conflict-20240304-200746-TJEWWHH.md.tmp",
+    "~syncthing~EOW Huddle.sync-conflict-20240304-200029-TJEWWHH.md.tmp",
+    "~syncthing~EOW Huddle.sync-conflict-20240304-200009-TJEWWHH.md.tmp",
+    "Main/Untitled.canvas",
+    "Templates",
+    "New folder",
+    "Daily Notes/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

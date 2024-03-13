@@ -1,0 +1,6 @@
+- [Responsive design made easy by Kevin powell](https://www.youtube.com/watch?v=bn-DQCifeQQ&t=841s&ab_channel=KevinPowell)
+- [A practical guide to responsive web design](https://www.youtube.com/watch?v=x4u1yp3Msao&ab_channel=KevinPowell)
+- instead of width/heights use max and min width/heights
+- do not use VH or VW
+- don't declare things you don't need
+- 

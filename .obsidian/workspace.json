@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responsivesness.md",
+                "file": "Daily Notes/Mar. 13, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task to do.md",
+                "file": "Daily Notes/Mar. 13, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task to do.md",
+                "file": "Daily Notes/Mar. 13, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task to do.md"
+                "file": "Daily Notes/Mar. 13, 2024.md"
               }
             }
           },
@@ -182,8 +182,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "053830bfd6ca08e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "f585b475b5966a6a",
@@ -236,13 +245,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0520db7c3cb64d72",
+  "active": "ff4cd7da7cfcb213",
   "lastOpenFiles": [
+    "Task to do.md",
     "Responsivesness.md",
     "HTML & CSS.md",
     "Daily Notes/Mar. 13, 2024.md",
     "repository",
-    "Task to do.md",
     "Reminders.md",
     "Width.md",
     "Font-size.md",

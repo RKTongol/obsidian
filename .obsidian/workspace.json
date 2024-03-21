@@ -105,19 +105,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7459e0e2abc332e9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar. 21, 2024.md",
+                "file": "Task to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar. 21, 2024.md",
+                "file": "Task to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar. 21, 2024.md"
+                "file": "Task to do.md"
               }
             }
           },
@@ -297,7 +287,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7459e0e2abc332e9",
+  "active": "0520db7c3cb64d72",
   "lastOpenFiles": [
     "Daily Notes/Mar. 21, 2024.md",
     "Daily Notes/Mar. 19, 2024.md",

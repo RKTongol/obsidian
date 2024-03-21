@@ -105,9 +105,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7459e0e2abc332e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -287,7 +297,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa593eb7f233b5e7",
+  "active": "7459e0e2abc332e9",
   "lastOpenFiles": [
     "Daily Notes/Mar. 21, 2024.md",
     "Daily Notes/Mar. 19, 2024.md",

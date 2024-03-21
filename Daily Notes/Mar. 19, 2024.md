@@ -1,4 +1,4 @@
-**Rean SOD Mar. 07, 2024.  Thursday**
+**Rean SOD Mar. 19, 2024 .  Tuesday**
 
 **Any help I need to get things done**
 - None so far 🙏
@@ -7,29 +7,28 @@
 - Online Everywhere
 
 **What I did for my health today?**
-- 
+- Mediation, 8 hours of sleep
 
 **Win/s**
-- check mam gilda
+- Added trending post on inskin
  
 **How I saved the world’s skin**
-- 
+- Help around the house
 
 
-**Rean EOD Mar. 07, 2024,  Thursday**
+**Rean EOD Mar. 19, 2024,  Tuesday**
 
-***Purposeful-To-Do**
+**Purposeful-To-Do**
 - 
 
 **What I did today:**
-- Audit PH
-- Weekly report
-- NYC site
-- update inskin plugins
-- EOW Huddle
+- GMD Call
+- SOW Huddle
+- edit cart information
+- research about seal subscription
+- google maps
 
 **What I plan to do on my next shift**
 - 
 
 **Any help you need from me before signing off for today?**
-- 

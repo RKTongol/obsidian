@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4dc3f19a21fc2c9e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "0520db7c3cb64d72",
             "type": "leaf",
             "pinned": true,
@@ -22,38 +36,78 @@
             }
           },
           {
-            "id": "4dc3f19a21fc2c9e",
+            "id": "52f95fa4b9b3bd9a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Web Alignment.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5cf811838d4c0be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GMD Call.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "60985148e7173fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "52f95fa4b9b3bd9a",
+            "id": "a3b89d003b1aaf07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOW Huddle.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3dd84642b96801e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mar. 13, 2024.md",
+                "file": "Daily Notes/Mar. 20, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa593eb7f233b5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Mar. 21, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +126,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -136,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar. 13, 2024.md",
+                "file": "Daily Notes/Mar. 21, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar. 13, 2024.md",
+                "file": "Daily Notes/Mar. 21, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar. 13, 2024.md"
+                "file": "Daily Notes/Mar. 21, 2024.md"
               }
             }
           },
@@ -233,39 +287,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52f95fa4b9b3bd9a",
+  "active": "fa593eb7f233b5e7",
   "lastOpenFiles": [
+    "Daily Notes/Mar. 21, 2024.md",
+    "Daily Notes/Mar. 19, 2024.md",
+    "Daily Notes/Mar. 20, 2024.md",
     "Task to do.md",
+    "Reminders.md",
+    "Daily Notes/Mar. 24, 2024.md",
+    "Daily Notes/Mar. 18, 2024.md",
+    "GMD Call.md",
+    "SOW Huddle.md",
+    "Web Alignment.md",
+    "Daily Notes/Mar. 17, 2024.md",
+    "Notes.md",
+    "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
+    "Daily Notes/Mar. 14, 2024.md",
+    "Daily Notes/Mar. 13, 2024.md",
+    "Daily Notes/Mar. 14, 2024.sync-conflict-20240317-204933-TJEWWHH.md",
+    "Daily Notes/Mar. 13, 2024.sync-conflict-20240317-204933-TJEWWHH.md",
+    "VMV.NYC.md",
+    "Daily Notes/Mar. 07, 2024.md",
+    "Daily Notes/Mar. 10, 2024.md",
+    "Daily Notes/Mar. 11, 2024.md",
+    "Daily Notes/Mar. 12, 2024.md",
     "Javascript.md",
     "console.log.md",
     "Web Developemnt.md",
-    "Notes.md",
-    "Daily Notes/Mar. 12, 2024.md",
-    "Daily Notes/Mar. 13, 2024.md",
     "Responsivesness.md",
-    "HTML & CSS.md",
     "repository",
-    "Reminders.md",
-    "Width.md",
-    "Font-size.md",
-    "IMG.md",
-    "SOW Huddle.md",
-    "Daily Notes/Mar. 11, 2024.md",
-    "EOW Huddle.md",
-    "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
-    "Templates/Daily.md",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
-    "Daily Notes/Mar. 24, 2024.md",
-    "Daily Notes/(Every M) Post How to save the world's skin.md",
-    "Daily Notes/Mar. 29, 2024.md",
-    "VMV.NYC.md",
     "Pasted image 20240306092550.png",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-164726-2HTMCHM.md.tmp",
     "~syncthing~.stwritetest.tmp",
-    "GMD Call.md",
-    "VMV Links.md",
-    "Accomplished Task.md",
-    "Daily Notes/Mar. 10, 2024.md",
     "~syncthing~GMD Call.md.tmp",
     "~syncthing~EOW Huddle.md.tmp",
     "~syncthing~Reminders.sync-conflict-20240304-200746-TJEWWHH.md.tmp",

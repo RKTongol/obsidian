@@ -1,33 +1,36 @@
-Ask what part of PH isn't mobile responsive
+ask if i could update VSRC website
 
-Ask about ROCKS, innovation ideas, 
+ask what exactly we want recharge to do for better search which app fits what we want
+
+ask on [yammer thread](https://web.yammer.com/main/org/vmvgroup.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjY3NjI3Njc3ODg2ODczNiJ9?trk_copy_link=V2) about new vmvsites
+
 
 1.) One word open and a win
-mainit
-no bugs on wordpress update
+meetings
+no bugs on site
 
 2.) 6 things for this week
-⦁ update plugins
-⦁ back up sites
-⦁ inskin audit
-⦁ optimize inskin
+⦁ VSRC instagram feed
+⦁ trending post in inskin
+⦁ recharge alternative
+⦁ vmv global
 ⦁ NYC
-⦁ update sir JPB about the access and transfer owneship of COM
+⦁ shopify apps
 
 ⦁	web alignment
 ⦁	vmv group
 
 3.) Any help you need to get things done?
-couldnt find notif when country is not form US
+trending post for inskin
 
 4.) Items for discussion
 none so far
 
 5.) What i did for my health
-calisthenics, drink plenty of water
+- lite exercises
 
 6.) What are you going to do this week better than last week? What's one thing can I do better?
-replying on yammer
+finding more work to do
 
 7.) How I saved the world’s skin this week? Or plan to save the world’s skin this week?
-gave a gift to my dad/ bond with coco
+gave a gift to my friends

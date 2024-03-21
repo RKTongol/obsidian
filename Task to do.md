@@ -1,16 +1,18 @@
 [[Priority]]
-- [ ] check facts
-- [ ] TAG ms.lvb IN DOMAIN NAME
-- [ ] change owner of COM shopify to Ms.LVB
-- [ ] contact shopify on issue
-- [ ] find a way to block poland traffic
+- [ ] remind about google maps
+- [ ] add note on checkout
+- [ ] reply to Ms.LVB's [comment](https://web.yammer.com/main/org/vmvgroup.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjY3NjI3Njc3ODg2ODczNiJ9?trk_copy_link=V2)
+- [x] find app insta feed for VSRC
+- [x] Search for alternative for recharge
+- [ ] message ma'am LJ about disregard about the apps
+- [x] search new way to update trending post vmvinskin home page
+- [ ] google maps location pin
 - [ ] GoDaddy Renewals
 - [ ] Monitor donate source and aftersell!!!!
-- [ ] ROCKS
-- [ ] recharge
+- [x] ROCKS
+- [x] recharge
 - [ ] Learn Smile app
 - [ ] explore on facebook business email about expanding access to shop ads
-- [ ] Search for alternative for recharge
 - [ ] Google Analytics Issue
 
 **[[PH]]**

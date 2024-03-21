@@ -33,3 +33,11 @@
 - 
 
 **Any help you need from me before signing off for today?**
+
+
+
+
+- [ ] check facts
+- [ ] TAG ms.lvb IN DOMAIN NAME
+- [ ] change owner of COM shopify to Ms.LVB
+- [ ] contact shopify on issue>)

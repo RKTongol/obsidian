@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "60985148e7173fc8",
@@ -88,18 +88,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mar. 20, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa593eb7f233b5e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Daily Notes/Mar. 21, 2024.md",
                 "mode": "source",
                 "source": false
@@ -107,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task to do.md",
+                "file": "Daily Notes/Mar. 21, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task to do.md",
+                "file": "Daily Notes/Mar. 21, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task to do.md"
+                "file": "Daily Notes/Mar. 21, 2024.md"
               }
             }
           },
@@ -287,20 +275,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0520db7c3cb64d72",
+  "active": "3dd84642b96801e0",
   "lastOpenFiles": [
+    "Web Alignment.md",
+    "EOW Huddle.md",
+    "web build pricelist.md",
     "Daily Notes/Mar. 21, 2024.md",
-    "Daily Notes/Mar. 19, 2024.md",
+    "Notes.md",
     "Daily Notes/Mar. 20, 2024.md",
-    "Task to do.md",
-    "Reminders.md",
-    "Daily Notes/Mar. 24, 2024.md",
+    "Weekly Report.md",
     "Daily Notes/Mar. 18, 2024.md",
+    "Daily Notes/Mar. 19, 2024.md",
+    "Task to do.md",
+    "Daily Notes/Mar. 24, 2024.md",
+    "Reminders.md",
     "GMD Call.md",
     "SOW Huddle.md",
-    "Web Alignment.md",
     "Daily Notes/Mar. 17, 2024.md",
-    "Notes.md",
     "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
     "Daily Notes/Mar. 14, 2024.md",
     "Daily Notes/Mar. 13, 2024.md",
@@ -312,9 +303,6 @@
     "Daily Notes/Mar. 11, 2024.md",
     "Daily Notes/Mar. 12, 2024.md",
     "Javascript.md",
-    "console.log.md",
-    "Web Developemnt.md",
-    "Responsivesness.md",
     "repository",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
     "Pasted image 20240306092550.png",

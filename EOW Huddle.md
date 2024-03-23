@@ -1,24 +1,24 @@
 1.)  One word open and a WIN
-Audit
-Finished making a draft of the nyc page
+joint metorship session
+learned a lot today
 
 2.) Update on 6 Things for this week (completed, ongoing) 
-⦁ VSRC Google Ads (update that it working)
-⦁ Donate source & aftersell
-⦁ InSkin
+⦁ Inskin trending post algorithm
+⦁ Recharge alternative
+⦁ VSRC instagram feed fix
 ⦁ Weekly Report
-⦁ NYC site
-⦁Audit & update pics on PH
+⦁ Google Analytics verify consent settings
+⦁ inskin popup fixed
 
 
 3.) Any help you need to get things done?
-none so far
+on checking inskin pop up if its works properly
 
 4.) What have I done better this week than the last week so far? 
-check on all the sites
+being hands on on more work
 
 5.) How have I saved the World’s Skin this week? Or plan to save the World’s Skin this week?
-Bond with family yesterday/ bond wit
+help with a tech problem
 
 6.) Items for discussion
-None so far
+none so far

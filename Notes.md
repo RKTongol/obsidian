@@ -4,3 +4,5 @@
 - [[Accomplished Task]]
 - [[VMV Links]]
 - [[Web Developemnt]]
+- [[Weekly Report]]
+- [[web build pricelist]]

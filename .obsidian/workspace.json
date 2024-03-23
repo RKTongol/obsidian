@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "60985148e7173fc8",
@@ -88,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mar. 21, 2024.md",
+                "file": "Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar. 21, 2024.md",
+                "file": "Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar. 21, 2024.md",
+                "file": "Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar. 21, 2024.md"
+                "file": "Variables.md"
               }
             }
           },
@@ -277,11 +276,15 @@
   },
   "active": "3dd84642b96801e0",
   "lastOpenFiles": [
+    "Javascript.md",
+    "Variables.md",
+    "Web Developemnt.md",
+    "Notes.md",
+    "Daily Notes/Mar. 23, 2024.md",
+    "Daily Notes/Mar. 21, 2024.md",
     "Web Alignment.md",
     "EOW Huddle.md",
     "web build pricelist.md",
-    "Daily Notes/Mar. 21, 2024.md",
-    "Notes.md",
     "Daily Notes/Mar. 20, 2024.md",
     "Weekly Report.md",
     "Daily Notes/Mar. 18, 2024.md",
@@ -299,10 +302,6 @@
     "Daily Notes/Mar. 13, 2024.sync-conflict-20240317-204933-TJEWWHH.md",
     "VMV.NYC.md",
     "Daily Notes/Mar. 07, 2024.md",
-    "Daily Notes/Mar. 10, 2024.md",
-    "Daily Notes/Mar. 11, 2024.md",
-    "Daily Notes/Mar. 12, 2024.md",
-    "Javascript.md",
     "repository",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
     "Pasted image 20240306092550.png",

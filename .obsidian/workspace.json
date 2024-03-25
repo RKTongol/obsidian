@@ -82,7 +82,7 @@
             }
           },
           {
-            "id": "3dd84642b96801e0",
+            "id": "b51a02654232a2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -274,14 +274,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3dd84642b96801e0",
+  "active": "b51a02654232a2a9",
   "lastOpenFiles": [
-    "Variables.md",
+    "Daily Notes/Mar. 24, 2024.md",
     "Daily Notes/Mar. 25, 2024.md",
+    "SOW Huddle.md",
+    "Templates/Daily.md",
+    "Daily Notes/Mar. 23, 2024.md",
+    "Variables.md",
     "Javascript.md",
     "Web Developemnt.md",
     "Notes.md",
-    "Daily Notes/Mar. 23, 2024.md",
     "Daily Notes/Mar. 21, 2024.md",
     "Web Alignment.md",
     "EOW Huddle.md",
@@ -291,17 +294,14 @@
     "Daily Notes/Mar. 18, 2024.md",
     "Daily Notes/Mar. 19, 2024.md",
     "Task to do.md",
-    "Daily Notes/Mar. 24, 2024.md",
     "Reminders.md",
     "GMD Call.md",
-    "SOW Huddle.md",
     "Daily Notes/Mar. 17, 2024.md",
     "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
     "Daily Notes/Mar. 14, 2024.md",
     "Daily Notes/Mar. 13, 2024.md",
     "Daily Notes/Mar. 14, 2024.sync-conflict-20240317-204933-TJEWWHH.md",
     "Daily Notes/Mar. 13, 2024.sync-conflict-20240317-204933-TJEWWHH.md",
-    "VMV.NYC.md",
     "repository",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
     "Pasted image 20240306092550.png",

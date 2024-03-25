@@ -1,4 +1,4 @@
-**Rean SOD <%tp.date.now("MMM. DD, YYYY")%> .  Monday**
+**Rean SOD Mar. 25, 2024 .  Monday**
 
 **Any help I need to get things done**
 - None so far 🙏
@@ -16,7 +16,7 @@
 - 
 
 
-**Rean EOD <%tp.date.now("MMM. DD, YYYY")%>,  Monday**
+**Rean EOD Mar. 25, 2024,  Monday**
 
 **Purposeful-To-Do**
 - 

@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "60985148e7173fc8",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar. 25, 2024.md",
+                "file": "Task to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar. 25, 2024.md",
+                "file": "Task to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar. 25, 2024.md"
+                "file": "Task to do.md"
               }
             }
           },
@@ -274,10 +275,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b51a02654232a2a9",
+  "active": "0520db7c3cb64d72",
   "lastOpenFiles": [
-    "Daily Notes/Mar. 24, 2024.md",
     "Daily Notes/Mar. 25, 2024.md",
+    "Daily Notes/Mar. 24, 2024.md",
     "SOW Huddle.md",
     "Templates/Daily.md",
     "Daily Notes/Mar. 23, 2024.md",

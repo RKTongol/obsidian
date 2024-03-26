@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOW Huddle.md",
+                "file": "Task to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOW Huddle.md",
+                "file": "Task to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOW Huddle.md"
+                "file": "Task to do.md"
               }
             }
           },
@@ -276,10 +276,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3b89d003b1aaf07",
+  "active": "0520db7c3cb64d72",
   "lastOpenFiles": [
-    "Task to do.md",
     "SOW Huddle.md",
+    "Task to do.md",
     "Daily Notes/Mar. 26, 2024.md",
     "GMD Call.md",
     "Daily Notes/Mar. 25, 2024.md",

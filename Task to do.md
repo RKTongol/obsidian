@@ -1,4 +1,5 @@
 [[Priority]]
+- [ ] GoDaddy Renewals!!!!!
 - [ ] free shopify themes
 - [ ] remind about google maps
 - [x] add note on checkout

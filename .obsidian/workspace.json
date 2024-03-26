@@ -6,6 +6,7 @@
       {
         "id": "1ecaa56245ac82fb",
         "type": "tabs",
+        "dimension": 55.53571428571429,
         "children": [
           {
             "id": "4dc3f19a21fc2c9e",
@@ -55,18 +56,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GMD Call.md",
+                "file": "Daily Notes/Mar. 26, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "60985148e7173fc8",
         "type": "tabs",
+        "dimension": 44.46428571428571,
         "children": [
           {
             "id": "a3b89d003b1aaf07",
@@ -88,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mar. 25, 2024.md",
+                "file": "Daily Notes/Mar. 26, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task to do.md",
+                "file": "Daily Notes/Mar. 26, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task to do.md",
+                "file": "Daily Notes/Mar. 26, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task to do.md"
+                "file": "Daily Notes/Mar. 26, 2024.md"
               }
             }
           },
@@ -262,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5
+    "width": 555.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,8 +277,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0520db7c3cb64d72",
+  "active": "5cf811838d4c0be0",
   "lastOpenFiles": [
+    "Daily Notes/Mar. 26, 2024.md",
+    "GMD Call.md",
+    "Task to do.md",
     "Daily Notes/Mar. 25, 2024.md",
     "Daily Notes/Mar. 24, 2024.md",
     "SOW Huddle.md",
@@ -294,15 +299,12 @@
     "Weekly Report.md",
     "Daily Notes/Mar. 18, 2024.md",
     "Daily Notes/Mar. 19, 2024.md",
-    "Task to do.md",
     "Reminders.md",
-    "GMD Call.md",
     "Daily Notes/Mar. 17, 2024.md",
     "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
     "Daily Notes/Mar. 14, 2024.md",
     "Daily Notes/Mar. 13, 2024.md",
     "Daily Notes/Mar. 14, 2024.sync-conflict-20240317-204933-TJEWWHH.md",
-    "Daily Notes/Mar. 13, 2024.sync-conflict-20240317-204933-TJEWWHH.md",
     "repository",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
     "Pasted image 20240306092550.png",

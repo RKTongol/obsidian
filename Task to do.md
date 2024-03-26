@@ -1,6 +1,7 @@
 [[Priority]]
+- [ ] free shopify themes
 - [ ] remind about google maps
-- [ ] add note on checkout
+- [x] add note on checkout
 - [ ] reply to Ms.LVB's [comment](https://web.yammer.com/main/org/vmvgroup.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjY3NjI3Njc3ODg2ODczNiJ9?trk_copy_link=V2)
 - [x] find app insta feed for VSRC
 - [x] Search for alternative for recharge

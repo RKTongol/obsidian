@@ -56,14 +56,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mar. 26, 2024.md",
+                "file": "SOW Huddle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "60985148e7173fc8",
@@ -96,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar. 26, 2024.md",
+                "file": "SOW Huddle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar. 26, 2024.md",
+                "file": "SOW Huddle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar. 26, 2024.md"
+                "file": "SOW Huddle.md"
               }
             }
           },
@@ -277,14 +276,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cf811838d4c0be0",
+  "active": "a3b89d003b1aaf07",
   "lastOpenFiles": [
+    "Task to do.md",
+    "SOW Huddle.md",
     "Daily Notes/Mar. 26, 2024.md",
     "GMD Call.md",
-    "Task to do.md",
     "Daily Notes/Mar. 25, 2024.md",
     "Daily Notes/Mar. 24, 2024.md",
-    "SOW Huddle.md",
     "Templates/Daily.md",
     "Daily Notes/Mar. 23, 2024.md",
     "Variables.md",

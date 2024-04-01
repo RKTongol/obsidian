@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "60985148e7173fc8",
@@ -102,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mar. 26, 2024.md",
+                "file": "Daily Notes/Apr. 01, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar. 26, 2024.md",
+                "file": "Task to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar. 26, 2024.md",
+                "file": "Task to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar. 26, 2024.md"
+                "file": "Task to do.md"
               }
             }
           },
@@ -289,10 +289,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b51a02654232a2a9",
+  "active": "0520db7c3cb64d72",
   "lastOpenFiles": [
-    "Daily Notes/Mar. 27, 2024.md",
+    "Daily Notes/Apr. 01, 2024.md",
     "Daily Notes/Mar. 26, 2024.md",
+    "Daily Notes/Mar. 27, 2024.md",
     "Task to do.md",
     "SOW Huddle.md",
     "GMD Call.md",
@@ -316,7 +317,6 @@
     "Daily Notes/Mar. 17, 2024.md",
     "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
     "Daily Notes/Mar. 14, 2024.md",
-    "Daily Notes/Mar. 13, 2024.md",
     "repository",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
     "Pasted image 20240306092550.png",

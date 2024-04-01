@@ -1,4 +1,4 @@
-**Rean SOD Mar. 26, 2024 .  Tuesday**
+**Rean SOD Mar. 27, 2024 .  Wednesday**
 
 **Any help I need to get things done**
 - None so far 🙏
@@ -16,13 +16,12 @@
 - 
 
 
-**Rean EOD Mar. 26, 2024,  Tuesday**
+**Rean EOD Mar. 27, 2024,  Wednesday**
 
 **Purposeful-To-Do**
 - 
 
 **What I did today:**
-- fixed search bug where pages are showing 
 - 
 
 **What I plan to do on my next shift**

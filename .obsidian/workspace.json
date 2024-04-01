@@ -61,9 +61,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25d7532444ab4a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Mar. 27, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "60985148e7173fc8",
@@ -96,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task to do.md",
+                "file": "Daily Notes/Mar. 26, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task to do.md",
+                "file": "Daily Notes/Mar. 26, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task to do.md"
+                "file": "Daily Notes/Mar. 26, 2024.md"
               }
             }
           },
@@ -276,11 +289,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0520db7c3cb64d72",
+  "active": "b51a02654232a2a9",
   "lastOpenFiles": [
-    "SOW Huddle.md",
-    "Task to do.md",
+    "Daily Notes/Mar. 27, 2024.md",
     "Daily Notes/Mar. 26, 2024.md",
+    "Task to do.md",
+    "SOW Huddle.md",
     "GMD Call.md",
     "Daily Notes/Mar. 25, 2024.md",
     "Daily Notes/Mar. 24, 2024.md",
@@ -303,7 +317,6 @@
     "Daily Notes/Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md",
     "Daily Notes/Mar. 14, 2024.md",
     "Daily Notes/Mar. 13, 2024.md",
-    "Daily Notes/Mar. 14, 2024.sync-conflict-20240317-204933-TJEWWHH.md",
     "repository",
     "Daily Notes/~syncthing~Mar. 12, 2024.sync-conflict-20240312-165930-TJEWWHH.md.tmp",
     "Pasted image 20240306092550.png",
